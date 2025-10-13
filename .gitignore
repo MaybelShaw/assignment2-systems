@@ -1,0 +1,18 @@
+
+# 虚拟环境
+.venv/
+
+# IDE 相关
+.idea/
+.vscode/
+
+# 数据
+/assignment1-basics/data/*
+
+# 测试
+/assignment1/cs336_basics/test.py
+
+# serialized files
+/assignment1-basics/cs336_basics/vocab.json
+/assignment1-basics/cs336_basics/merges.json
+
